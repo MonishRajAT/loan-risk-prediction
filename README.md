@@ -5,7 +5,7 @@ An end-to-end Machine Learning project that predicts loan approval risk using ap
 ---
 
 ## 🚀 Live Demo
-👉 https://your-app-name.streamlit.app
+👉 https://loan-risk-prediction-vgufbjg34azmu53loerbvp.streamlit.app/
 
 ---
 
